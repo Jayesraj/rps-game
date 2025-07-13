@@ -1,16 +1,25 @@
-# Rock Paper Scissors League 🎮
+# 🎮 Rock Paper Scissors League
 
-A terminal-based Rock, Paper, Scissors game built in Python — complete with emojis, score tracking, witty replies, and rage-quit support 😈
+A savage, emoji-filled Rock Paper Scissors game built in Python — with smart score tracking, witty replies, and the ability to rage-quit mid-match 😈
+
+---
 
 ## 🔥 Features
-- Rock ✊, Paper 🖐️, Scissors ✌️ with fun emojis
-- Tracks player vs. computer score
-- Handles invalid input and Ctrl+C interruption
-- Savage and funny commentary
-- Packaged as a Windows `.exe` with PyInstaller
 
-## 🚀 How to Run
+- Rock ✊, Paper 🖐️, Scissors ✌️ — with fun emojis
+- Tracks score across rounds
+- Savage win/loss comments 😎
+- Handles invalid input and Keyboard interruptions
+- Lightweight, single-file `.py` game
+- Packaged `.exe` available (no Python needed)
 
-### Option 1: Run Python File
+---
+
+## 🚀 How to Play
+
+### Option 1: Run from Python
+
+If you have Python installed:
+
 ```bash
 python Rock_Paper_Scissors_New.py
